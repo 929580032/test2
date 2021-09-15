@@ -4,4 +4,3 @@ util\BCConvert.class
 WordFilter.class
 WordNode.class
 FilterSet.class
-util\FileUtil.class
