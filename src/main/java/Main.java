@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         String text = FileUtil.readFile(args[1]);
         WordFilter.setArgs(args);
         WordFilter.init();
