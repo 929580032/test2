@@ -1,0 +1,2 @@
+Main-Class: Main
+java -jar main.jar D:\敏感词过滤\src\main\resources\wd.txt D:\敏感词过滤\src\main\resources\org.txt D:\敏感词过滤\src\main\resources\ans1.txt
